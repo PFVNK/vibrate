@@ -1,1 +1,3 @@
-window.navigator.vibrate(500);
+function setUp() {
+  window.navigator.vibrate(500);
+}
